@@ -282,11 +282,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the ISC License.
 
-## 👨‍💻 Author
 
-**Digvijay-x1**
-
-- GitHub: [@Digvijay-x1](https://github.com/Digvijay-x1)
 
 ## 🙏 Acknowledgments
 
