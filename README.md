@@ -282,7 +282,8 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the ISC License.
 
-
+## Author
+- Jaydeep Ghosh
 
 ## 🙏 Acknowledgments
 
